@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+matplotlib
+numpy
+joblib
+jupyter
+notebook
+ipykernel
+imbalanced-learn
